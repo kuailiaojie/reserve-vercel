@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "http://desert-slime-stomach.glitch.me/$1"
+      "dest": "https://e5renew.kuailiaojie.eu.org/$1"
     }
   ]
 }
